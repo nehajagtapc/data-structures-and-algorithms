@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-The **Data Structures and Algorithms** repository contains implementations of fundamental and advanced data structures and algorithms in **C, C++, and Python**. The project is designed for **learning, practice, and interview preparation**, helping developers understand core computer science concepts and improve problem-solving skills.
+The **Data Structures and Algorithms** repository contains implementations of fundamental and advanced data structures and algorithms in **C, C++, and Python**. The project is designed for **learning, practice, **, helping developers understand core computer science concepts and improve problem-solving skills.
 
 This repository is a **re-upload/repost** of the original collection with improved structure, documentation, and additional examples.
 
